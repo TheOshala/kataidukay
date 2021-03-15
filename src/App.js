@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import React, { Component } from 'react';
 import logo from './assets/logo.svg';
 import example from './assets/example.png';
